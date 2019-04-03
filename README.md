@@ -1,3 +1,4 @@
+<img src="https://p14.zdusercontent.com/attachment/1015988/A0YsvjnPbqBiMMWhpwnq91ALD?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..W7CLK4jEMnAPt58_QxIJ3A.a4ThDDFsxxjFPolrA7LNXI-5-dtk_142eI2IwJ6l04us_2HHXVVe0FG01jFG9hnr5gK8GFNeZfWMhJaKdepZkHHjI51kF-ESzT7Aw-zhTs8mLaFm5omEOm4c5E9jdcL-8qTJDfuyK2EL76qNqEAMR6e72WONnAVIh9e9nbh5heDzRyY5fGPWhYblylRyZKu0oCINyj5kGmPsEEhOdYbhN2tt_--_myPFmn2fbprqzRVq-0QrBtnV0-mHk9KVnPaJagkmqU3jKpfR3W89hqdXJv8NQ3KKwFhICORFeZh0NHE.WBnjivALZRBAYcXzP4cwBw"/>
 Sponsored by http://browserstack.com/ - Test live locally or remotelly on all platforms and all devices, manually or automatically using a host of IDEs and languages and browsers and operating systems.  I have used and tested browserstack for responsive applications web based hosted in AWS and I recommend it to my fellow developers and testers/automators.
 
 NLP detective tool is a tensorflow Artificial Intelligence software to identify bias in content and speech e.g. positive, negative, motivating or demotivating.  In this way, you can decide which content is good read for you.
@@ -24,5 +25,3 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-<img src="https://p14.zdusercontent.com/attachment/1015988/A0YsvjnPbqBiMMWhpwnq91ALD?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..W7CLK4jEMnAPt58_QxIJ3A.a4ThDDFsxxjFPolrA7LNXI-5-dtk_142eI2IwJ6l04us_2HHXVVe0FG01jFG9hnr5gK8GFNeZfWMhJaKdepZkHHjI51kF-ESzT7Aw-zhTs8mLaFm5omEOm4c5E9jdcL-8qTJDfuyK2EL76qNqEAMR6e72WONnAVIh9e9nbh5heDzRyY5fGPWhYblylRyZKu0oCINyj5kGmPsEEhOdYbhN2tt_--_myPFmn2fbprqzRVq-0QrBtnV0-mHk9KVnPaJagkmqU3jKpfR3W89hqdXJv8NQ3KKwFhICORFeZh0NHE.WBnjivALZRBAYcXzP4cwBw"/>
