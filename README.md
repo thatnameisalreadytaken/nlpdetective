@@ -1,4 +1,4 @@
-Sponsored by http://browserstack.com/ - Test live locally or remotelly on all platforms and all devices, manually or automatically using a host of IDEs and languages and browsers and operating systems.
+Sponsored by http://browserstack.com/ - Test live locally or remotelly on all platforms and all devices, manually or automatically using a host of IDEs and languages and browsers and operating systems.  I have used and tested browserstack for responsive applications web based hosted in AWS and I recommend it to my fellow developers and testers/automators.
 
 NLP detective tool is a tensorflow Artificial Intelligence software to identify bias in content and speech e.g. positive, negative, motivating or demotivating.  In this way, you can decide which content is good read for you.
 
